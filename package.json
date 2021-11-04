@@ -22,6 +22,8 @@
   "homepage": "https://github.com/tengli1990/fa-cli#readme",
   "dependencies": {
     "chalk": "^4.1.2",
-    "commander": "^8.3.0"
+    "commander": "^8.3.0",
+    "minimist": "^1.2.5",
+    "validate-npm-package-name": "^3.0.0"
   }
 }
